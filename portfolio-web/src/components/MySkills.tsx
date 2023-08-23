@@ -20,7 +20,9 @@ function MySkills() {
   return (
     <div className="flex gap-4 flex-wrap color-text-blue ">
       {datas.map((data, index) => (
-        <p className="px-2 bg-slate-800 rounded-lg">{data}</p>
+        <p key={index} className="px-2 bg-slate-800 rounded-lg">
+          {data}
+        </p>
       ))}
     </div>
   );
