@@ -3,21 +3,6 @@ import Image from "next/image";
 import Link from "next/link";
 
 function FixedSidebar() {
-  const sidebarLinks = [
-    {
-      route: "/#aboutme",
-      label: "About Me",
-    },
-    {
-      route: "/#myskills",
-      label: "My Skills",
-    },
-    {
-      route: "/#myprojects",
-      label: "My Projects",
-    },
-  ];
-
   return (
     <div className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
       <div className="text-center lg:text-left">

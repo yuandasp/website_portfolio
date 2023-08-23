@@ -1,7 +1,6 @@
 import AboutMe from "@/components/AboutMe";
 import MySkills from "@/components/MySkills";
 import Projects from "@/components/Projects";
-import Image from "next/image";
 
 export default function Home() {
   return (
