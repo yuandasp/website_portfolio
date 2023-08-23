@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    color: #ffffff;
+    background-color: #01051d;
+  }
+}
+
+@layer components {
+  .menuLink {
+    @apply cursor-pointer hover:text-[#c5c5c5];
+  }
+}
+
+.color-primary:hover {
+  color: rgb(90, 174, 252);
+}
+
+.color-text-blue {
+  color: rgb(90, 174, 252);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.headline:hover {
+  background-color: rgb(51, 65, 85);
+  padding: 8px;
+  border-radius: 9999px;
+  font-weight: 700;
+  color: rgb(90, 174, 252);
+}
