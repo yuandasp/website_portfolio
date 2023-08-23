@@ -28,7 +28,9 @@ function AboutMe() {
         target="blank"
       >
         <div className="flex gap-4 cursor-pointer">
-          <p className="hover:border-b-4 hover:inline-block">View my resume</p>
+          <p className="border-b-4 inline-block text-xl mb-4 color-primary">
+            View my resume
+          </p>
           <div className="w-4">
             <svg
               fill="none"
