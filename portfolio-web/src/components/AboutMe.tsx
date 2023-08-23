@@ -10,7 +10,7 @@ function AboutMe() {
       </p>
       <br />
       <p>
-        I&aposl;ve graduated from Web & Development Bootcamp from Purwadhika
+        I&#39;ve graduated from Web & Development Bootcamp from Purwadhika
         (August 2023) and also UI/UX Research & Design Bootcamp organized by
         Binar Academy (August 2022). I learned a lot from Bootcamp and ready to
         get a job as Software Engineer, Front-End, Back-End, Fullstack Engineer,
@@ -18,8 +18,8 @@ function AboutMe() {
       </p>
       <br />
       <p>
-        I&aposl;m a quick learner, love challenges that could improve knowledge
-        and skills, and I&aposl;m ready to collaborate in a team.
+        I&#39;m a quick learner, love challenges that could improve knowledge
+        and skills, and I&#39;m ready to collaborate in a team.
       </p>
       <br />
       <br />
