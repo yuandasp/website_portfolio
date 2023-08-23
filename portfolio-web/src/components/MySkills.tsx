@@ -1,5 +1,3 @@
-import React from "react";
-
 function MySkills() {
   const datas = [
     "Node JS",

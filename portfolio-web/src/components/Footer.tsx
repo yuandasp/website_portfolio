@@ -1,5 +1,3 @@
-import React from "react";
-
 function Footer() {
   return (
     <div className="bg-black w-full flex justify-center items-center py-4">

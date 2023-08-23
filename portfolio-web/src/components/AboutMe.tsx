@@ -1,5 +1,4 @@
 import Link from "next/link";
-import React from "react";
 
 function AboutMe() {
   return (
@@ -20,7 +19,7 @@ function AboutMe() {
       <br />
       <p>
         I'm a quick learner, love challenges that could improve knowledge and
-        skills, and I’m ready to collaborate in a team.
+        skills, and I'm ready to collaborate in a team.
       </p>
       <br />
       <br />
