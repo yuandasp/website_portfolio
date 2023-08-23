@@ -1,6 +1,5 @@
 import React from "react";
 import { AiOutlineMenu } from "react-icons/ai";
-import Hero from "./Hero";
 
 function Navbar() {
   return (
@@ -11,7 +10,6 @@ function Navbar() {
           <ul className="gap-10 lg:gap-16 hidden md:flex">
             <li className="menuLink">About Me</li>
             <li className="menuLink">Skills</li>
-            {/* <li className="menuLink">Experience</li> */}
             <li className="menuLink">Projects</li>
             <li className="menuLink">Contact Me</li>
           </ul>

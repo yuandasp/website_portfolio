@@ -1,5 +1,4 @@
 import AboutMe from "@/components/AboutMe";
-import Hero from "@/components/Hero";
 import MySkills from "@/components/MySkills";
 import Projects from "@/components/Projects";
 import Image from "next/image";
