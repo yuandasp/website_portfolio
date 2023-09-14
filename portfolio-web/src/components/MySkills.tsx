@@ -13,6 +13,10 @@ function MySkills() {
     "Google OAuth",
     "JsonWebToken",
     "Nodemailer",
+    "GraphQL",
+    "Firebase",
+    "Firestore",
+    "Apollo Client",
   ];
 
   return (
