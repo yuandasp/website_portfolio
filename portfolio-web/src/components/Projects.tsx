@@ -7,7 +7,15 @@ const datas = [
       "Pharmacy App is an e-commerce web application for selling products and medicines",
     image: "/pharmacy.png",
     link: "https://pharmacy-app.yuandaputri.com/",
-    tags: ["Node", "React", "Express", "Redux", "Formik", "JWT", "Nodemailer"],
+    tags: [
+      "NodeJS",
+      "ReactJS",
+      "Express",
+      "Redux",
+      "Formik",
+      "JWT",
+      "Nodemailer",
+    ],
   },
   {
     projectName: "Kanban App",
@@ -15,14 +23,36 @@ const datas = [
       "A todolist app, as a user, you can create list of your activity that you trying to do. You also can set the deadline time. A notification by email is sent to you once you meet the deadline.",
     image: "/kanban.png",
     link: "https://kanban.yuandaputri.com/login",
-    tags: ["Node", "React", "Express", "Google OAuth", "node-cron", "Tailwind"],
+    tags: [
+      "NodeJS",
+      "ReactJS",
+      "Express",
+      "Google OAuth",
+      "node-cron",
+      "Tailwind",
+    ],
   },
   {
     projectName: "myThreads",
     description: "A social media application to share our thought in words.",
     image: "/mythreads.png",
     link: "https://mythreads.yuandaputri.com/",
-    tags: ["Next", "Typescript", "MongoDB", "Clerk", "Uploadthing", "Tailwind"],
+    tags: [
+      "NextJS",
+      "Typescript",
+      "MongoDB",
+      "Clerk",
+      "Uploadthing",
+      "Tailwind",
+    ],
+  },
+  {
+    projectName: "Pokemon Explorer",
+    description:
+      "Your Gateway to the Pokemon Universe! Explore the vibrant and expansive world of Pokemon on our website.",
+    image: "/pokemon.png",
+    link: "https://pokemon.yuandaputri.com/",
+    tags: ["NextJS", "GraphQL", "Apollo Client", "Firebase", "Firestore"],
   },
 ];
 
