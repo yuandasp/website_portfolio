@@ -6,17 +6,17 @@ function MySkills() {
     "Next JS",
     "Tailwind CSS",
     "Redux",
-    "Formik",
-    "Yup",
     "REST API",
-    "Multer",
     "Google OAuth",
     "JsonWebToken",
     "Nodemailer",
     "GraphQL",
-    "Firebase",
-    "Firestore",
-    "Apollo Client",
+    "Nginx",
+    "MongoDB",
+    "MySQL",
+    "Typescript",
+    "Web Development",
+    "Design Thinking"
   ];
 
   return (
